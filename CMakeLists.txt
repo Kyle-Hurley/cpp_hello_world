@@ -1,5 +1,5 @@
 # CMake minimum version
-cmake_minimum_required(VERSION 3.10[3.31.4])
+cmake_minimum_required(VERSION 3.10)
 
 # Project name
 project(cpp_hello_world)
